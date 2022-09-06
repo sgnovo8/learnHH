@@ -1,5 +1,6 @@
 // contracts/Box.sol
 // SPDX-License-Identifier: MIT
+// check correct solidity version
 pragma solidity ^0.7.0;
 
 contract Box {
